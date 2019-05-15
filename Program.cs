@@ -8,6 +8,7 @@ namespace GitLesson2
         {
             Console.WriteLine("Hello Funky World!");
             Console.WriteLine("Goodbye World");
+            Console.WriteLine("Coming back");
         }
     }
 }
